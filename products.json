@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Бумага A4",
+        "product_type": "Канцелярия",
+        "price": 500.0,
+        "manufacturer": "SvetoCopy"
+    },
+    {
+        "name": "Ручка синяя",
+        "product_type": "Письменные",
+        "price": 25.0,
+        "manufacturer": "ErichKrause"
+    },
+    {
+        "name": "string",
+        "product_type": "string",
+        "price": 0.0,
+        "manufacturer": "string"
+    },
+    {
+        "name": "string",
+        "product_type": "string",
+        "price": 0.0,
+        "manufacturer": "string"
+    },
+    {
+        "name": "string",
+        "product_type": "string",
+        "price": 0.0,
+        "manufacturer": "string"
+    }
+]
